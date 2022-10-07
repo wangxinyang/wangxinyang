@@ -30,5 +30,5 @@
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wangxinyang&show_icons=true&theme=gotham" alt="wangxinyang" />
 <h3>Where to find me</h3>
-<p><a href="https://github.com/wangxinyang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/wangxinyang" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="http://www.wxyang.tk/" target="_blank"><img alt="blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=Blog&logoColor=white" /></a>
+<p><a href="https://github.com/wangxinyang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/wangxinyang" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="http://www.wxyang.tk/" target="_blank"><img alt="protflio" src="https://img.shields.io/badge/Protflio-%2312100E.svg?&style=for-the-badge&logo=Protflio&logoColor=white" /></a>
 </p>
