@@ -30,7 +30,8 @@
 📈 my github stats
 <p align="center">
   <p>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&layout=compact&langs_count=4&hide=javascript,html,css"/> 
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&layout=compact&langs_count=4&hide=javascript,html,css"/>
+    
     <img src="https://github-readme-stats.vercel.app/api?username=wangxinyang&show_icons=true&theme=gotham" alt="wangxinyang" />
   </p>
   
