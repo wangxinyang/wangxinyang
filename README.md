@@ -28,8 +28,10 @@
 <p>My goal is to build small components with the Rust/Go.</p>
 
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wangxinyang&show_icons=true&theme=gotham" alt="wangxinyang" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&layout=compact&langs_count=4&hide=javascript,html,css"/>
+<p align="center">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&layout=compact&langs_count=4&hide=javascript,html,css"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=wangxinyang&show_icons=true&theme=gotham" alt="wangxinyang" />
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/wangxinyang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/wangxinyang" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="http://www.wxyang.tk/" target="_blank"><img alt="protflio" src="https://img.shields.io/badge/Protflio-%2312100E.svg?&style=for-the-badge&logo=Protflio&logoColor=white" /></a>
 </p>
