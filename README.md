@@ -25,7 +25,7 @@
 </p>
 
 <h3>Goal</h3>
-<p>My goal is to build small components with the Rust/Go.</p>
+<p>My goal is to build small components with the Rust.</p>
 
 📈 my github stats
 <p align="center">
