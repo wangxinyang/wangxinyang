@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Wangxinyang, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372696.png" width="13"/> <b>Chongqing, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Tokyo, Japan</b>. </p>
+<p>Welcome to my page! </br> I'm Wang xinyang, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5372/5372696.png" width="13"/> <b>Chongqing, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Tokyo, Japan</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-FB542B?style=flat-square&logo=Java&logoColor=white" />
