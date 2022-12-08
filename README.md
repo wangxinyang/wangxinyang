@@ -23,6 +23,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<h4>Things I build with</h4>
+- Rust: https://crates.io/users/wangxinyang?sort=new
 
 <h3>Goal</h3>
 <p>My goal is to build small components with the Rust.</p>
