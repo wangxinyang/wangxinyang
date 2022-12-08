@@ -35,7 +35,7 @@
     <!--
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&layout=compact&langs_count=4&hide=javascript,html,css"/>    
 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=wangxinyang&show_icons=true&theme=gotham" alt="wangxinyang" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangxinyang&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true" alt="wangxinyang"/>
   </p>
   
 <h3>Where to find me</h3>
