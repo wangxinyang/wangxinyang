@@ -7,6 +7,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-FB542B?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Golang-2088FF?style=flat-square&logo=go&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-311C87?style=flat-square&logo=rust&logoColor=red" />
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-blueviolet?style=flat-square&logo=elixir&logoColor=white" />
   <img alt="Vlang" src="https://img.shields.io/badge/%20-vlang-red?style=flat-square&logo=v&logoColor=blue" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
