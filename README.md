@@ -39,6 +39,9 @@
 -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangxinyang&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=true&disable_animations=true" alt="wangxinyang"/>
   </p>
+  <p>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&layout=compact&langs_count=4&hide=javascript,html,css"/>    
+  </p>
   
 <h3>Where to find me</h3>
 <p><a href="https://github.com/wangxinyang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/wangxinyang" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="http://www.wxyang.tk/" target="_blank"><img alt="protflio" src="https://img.shields.io/badge/Protflio-%2312100E.svg?&style=for-the-badge&logo=Protflio&logoColor=white" /></a>
