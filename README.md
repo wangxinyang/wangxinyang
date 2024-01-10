@@ -47,7 +47,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangxinyang&theme=dracula&show_icons=true&hide_rank=true&hide=issues&count_private=true&include_all_commits=true" alt="wangxinyang"/>
   </p>
   <p>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&theme=dracula&layout=compact&langs_count=4&hide=javascript,html,css"/>    
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyang&theme=dracula&layout=compact&langs_count=6&hide=javascript,typescript,html,css,scss,less,plpgsql"/>    
   </p>
   
 <h3>Where to find me</h3>
